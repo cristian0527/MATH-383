@@ -1,3 +1,4 @@
 # MATH-383
 
-This repo is the keepsake of my assignments for my Intermediate Data Science Class. Currently a work in progess!
+This repo is the keepsake of my assignments for my Statistical Network Data class (MATH-383). Currently a work in progess of a portfolio of my assignments.
+
